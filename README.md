@@ -1,0 +1,2 @@
+# tt_easy_TCP_sever_for_cpp
+这是一个ipv4的简易tcp服务器头文件
